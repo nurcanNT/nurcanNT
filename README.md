@@ -1,4 +1,34 @@
 ### Hi there 👋
+
+
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/nurcanNT/count.svg" />
+</p>
+
+## About me
+Merhaba ben Nurcan, GitHub sayfama hoş geldiniz...
+Ben bir yazılımcı çırağıyım. Yazılıma olan ilgimi biraz geç fark etmiş olsam da bütün farkındalıklarımla buradayım. İlgi alanımı keşfettikten sonra yoğun bir öğrenme sürecine girdiğimi belirtmek isterim. Bir farkındalığın, bana birçok sosyal aktiviteye istekle hayır dedirtebileceğini hiç düşünmezdim :) Tercihimsin software...
+- 🌱 Boş zamanlarımda tatlı/yemek yapıp video çekiyorum. Aynı zamanda rattan sepet örmeyi çok seviyorum. İnstagram hesabımı buraya bırakıyorum, son zamanlarda pek boş vaktim olamasa da içerik eklemeye çalışıyorum:) >> https://www.instagram.com/madebynomatto/reels/
+- 😄 Badminton ve yürüyüş vazgeçilmezim.
+- ⚡ Ve bir kaktüs severim >>> :) 
+
+
+## Things I am passionate about
+
+- 🌱 Boş zamanlarımda tatlı/yemek yapıp video çekiyorum. Aynı zamanda rattan sepet örmeyi çok seviyorum. İnstagram hesabımı buraya bırakıyorum, son zamanlarda pek boş vaktim olamasa da içerik eklemeye çalışıyorum:) >> https://www.instagram.com/madebynomatto/reels/
+- 😄 Badminton ve yürüyüş vazgeçilmezim.
+- ⚡ Ve bir kaktüs severim >>> :) 
+- Ve tabiki kodlar, kodlamalar, kodladılar...
+
+## Get in touch :coffee:
+
+
+
 <p><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"></p>
 
 <!--
