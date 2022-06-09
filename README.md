@@ -61,6 +61,9 @@ Although I realized my interest in software a little late, I am here with all my
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnurcanNT&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=nurcanNT&show_icons=true alt=nurcanNT /> </p>
 
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurcanNT)](https://git.io/streak-stats)
+
+
 <!--
 **nurcanNT/nurcanNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
