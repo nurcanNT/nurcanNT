@@ -42,6 +42,7 @@ Although I realized my interest in software a little late, I am here with all my
 <p><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanNT&label=Profile%20views&color=0e75b6&style=flat" alt="nurcanNT" /> </p>
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=nurcanNT&show_icons=true alt=nurcanNT /> </p>
 
 <!--
 **nurcanNT/nurcanNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
