@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software_Apprentice!;I+am+Nurcan+Topkara&center=true&size=25">
+  </a>
+</h1>
+
 
 
 # Hey there :wave:
@@ -11,8 +16,9 @@
 </p>
 
 ## About me
-Merhaba ben Nurcan, GitHub sayfama hoş geldiniz...
-Ben bir yazılımcı çırağıyım. Yazılıma olan ilgimi biraz geç fark etmiş olsam da bütün farkındalıklarımla buradayım. İlgi alanımı keşfettikten sonra yoğun bir öğrenme sürecine girdiğimi belirtmek isterim. Bir farkındalığın, bana birçok sosyal aktiviteye istekle hayır dedirtebileceğini hiç düşünmezdim :) Tercihimsin software...
+Welcome to my github page ... 
+I started the software with Java. I continued with SQL, HTML and CSS. I am currently learning Python at Women in Tech Academy. I lovingly create every line of my code.
+Although I realized my interest in software a little late, I am here with all my awareness. I would like to state that after discovering my area of interest, I entered an intense learning process. An awareness made me say no to many things. My choice software...
 
 
 ## Things I am passionate about
@@ -25,6 +31,7 @@ Ben bir yazılımcı çırağıyım. Yazılıma olan ilgimi biraz geç fark etmi
 
 
 ## Get in touch :coffee:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanNT&label=Profile%20views&color=0e75b6&style=flat" alt="nurcanNT" /> </p>
 
 
 
