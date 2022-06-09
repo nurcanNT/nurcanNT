@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Software_Apprentice!;I+am+Nurcan+Topkara&center=true&size=25">
@@ -40,8 +41,9 @@ Although I realized my interest in software a little late, I am here with all my
 
 
 <p><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanNT&label=Profile%20views&color=0e75b6&style=flat" alt="nurcanNT" /> </p>
 
+![Totals Hits](https://komarev.com/ghpvc/?username=nurcanNT&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnurcanNT&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=nurcanNT&show_icons=true alt=nurcanNT /> </p>
 
 <!--
