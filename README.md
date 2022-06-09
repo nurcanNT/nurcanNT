@@ -23,15 +23,15 @@ Although I realized my interest in software a little late, I am here with all my
 
 ## Things I am passionate about
 
-- I am currently producing content on my <a href= "https://medium.com/@nrcntpkra">medium</a> account related to software.
-- 🌱 Boş zamanlarımda tatlı/yemek yapıp video çekiyorum. Aynı zamanda rattan sepet örmeyi çok seviyorum. İnstagram hesabımı buraya bırakıyorum, son zamanlarda pek boş vaktim olamasa da içerik eklemeye çalışıyorum:) https://www.instagram.com/madebynomatto/reels/
-- 🍰 Bu arada bir cheesecake ustası olduğumu söylemeden geçmek istemiyorum.
-- ⚡ Badminton ve yürüyüş vazgeçilmezim.
-- 🌵 Ve bir kaktüs severim >>> :) 
-- 💻Ve tabiki software software ...
+- 📙 I am currently producing content on my <a href= "https://medium.com/@nrcntpkra">medium</a> account related to software. 
+- 💗 I lovingly compose all my lines of code.
+- 🌱 In my spare time, I shoot and edit dessert and food videos. I'm trying to produce content even though I don't have much free time lately.
+- 💯 At the same time, I added rattan basket knitting to my hobbies. If you are curious about my little efforts, <a href = "https://www.instagram.com/madebynomatto/">you can click</a>. ↪
+- 🍰 By the way, I do not want to go without saying that I am a cheesecake master 🥰
+- 🌵 And I like a cactus too. I am the older sister of my cacti...
 
 
-## Get in touch :coffee:
+## A coffee >>> :coffee:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanNT&label=Profile%20views&color=0e75b6&style=flat" alt="nurcanNT" /> </p>
 
 
