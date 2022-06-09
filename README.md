@@ -16,13 +16,14 @@
 </p>
 
 ## About me
-Welcome to my github page ... 
-I started the software with Java. I continued with SQL, HTML and CSS. I am currently learning Python at Women in Tech Academy. I lovingly create every line of my code.
+Welcome to my github page ... <br>
+I started the software with Java. I continued with SQL, HTML and CSS. I am currently learning Python at Women in Tech Academy. I lovingly create every line of my code.<br>
 Although I realized my interest in software a little late, I am here with all my awareness. I would like to state that after discovering my area of interest, I entered an intense learning process. An awareness made me say no to many things. My choice software...
 
 
 ## Things I am passionate about
 
+- I am currently producing content on my <a href= "https://medium.com/@nrcntpkra">medium</a> account related to software.
 - 🌱 Boş zamanlarımda tatlı/yemek yapıp video çekiyorum. Aynı zamanda rattan sepet örmeyi çok seviyorum. İnstagram hesabımı buraya bırakıyorum, son zamanlarda pek boş vaktim olamasa da içerik eklemeye çalışıyorum:) https://www.instagram.com/madebynomatto/reels/
 - 🍰 Bu arada bir cheesecake ustası olduğumu söylemeden geçmek istemiyorum.
 - ⚡ Badminton ve yürüyüş vazgeçilmezim.
