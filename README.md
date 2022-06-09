@@ -32,7 +32,6 @@ Although I realized my interest in software a little late, I am here with all my
 
 
 ## A coffee >>> :coffee:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanNT&label=Profile%20views&color=0e75b6&style=flat" alt="nurcanNT" /> </p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurcanNT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurcantopkara)
@@ -41,6 +40,8 @@ Although I realized my interest in software a little late, I am here with all my
 
 
 <p><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanNT&label=Profile%20views&color=0e75b6&style=flat" alt="nurcanNT" /> </p>
+
 
 <!--
 **nurcanNT/nurcanNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
