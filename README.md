@@ -41,8 +41,6 @@ Although I realized my interest in software a little late, I am here with all my
 
 - 📙 I am currently producing content on my <a href= "https://medium.com/@nrcntpkra">medium</a> account related to software. 
 - 💗 I lovingly compose all my lines of code.
-- 🌱 In my spare time, I shoot and edit dessert and food videos. I'm trying to produce content even though I don't have much free time lately.
-- 💯 At the same time, I added rattan basket knitting to my hobbies. If you are curious about my little efforts, <a href = "https://www.instagram.com/madebynomatto/">you can click</a>. ↪
 - 🍰 By the way, I do not want to go without saying that I am a cheesecake master 🥰
 - 🌵 And I like a cactus too. I am the older sister of my cacti...
 
