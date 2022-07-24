@@ -18,7 +18,6 @@
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -28,12 +27,12 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 
 
 ## About me
 Welcome to my github page ... <br>
-I started the software with Java. I continued with SQL, HTML and CSS. I am currently learning Python at Women in Tech Academy. I lovingly create every line of my code.<br>
+I started the software with Java. I continue with SQL,Python, HTML, CSS and Javascript. I am currently learning Python at Women in Tech Academy. I lovingly create every line of my code.<br>
 Although I realized my interest in software a little late, I am here with all my awareness. I would like to state that after discovering my area of interest, I entered an intense learning process. An awareness made me say no to many things. My choice software...
 
 
