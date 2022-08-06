@@ -31,9 +31,11 @@
 
 
 ## About me
-Welcome to my github page ... <br>
-I started the software with Java. I continue with SQL,Python, HTML, CSS and Javascript. I am currently learning Python at Women in Tech Academy. I lovingly create every line of my code.<br>
-Although I realized my interest in software a little late, I am here with all my awareness. I would like to state that after discovering my area of interest, I entered an intense learning process. An awareness made me say no to many things. My choice software...
+Welcome to my GitHub page ... <br>
+I met Java with software. I continue with SQL, Python, HTML, CSS and Javascript.
+I learned Python for 3 months with the Women in Tech Academy and attended many different trainings. I create every line of code with enthusiasm and enthusiasm. I am very happy to have discovered my interest in software.
+An awareness made me say no to many things. 
+My choice is software...
 
 
 ## Things I am passionate about
