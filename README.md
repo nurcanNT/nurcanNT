@@ -49,22 +49,22 @@ My choice is software...
 ## A coffee >>> :coffee:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurcanNT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurcantopkara)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurcanNT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/enes-başarslan)
 
 
 
 
 <p><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"></p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=nurcanNT&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=4Evens&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnurcanNT&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=nurcanNT&show_icons=true alt=nurcanNT /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=4Evens&show_icons=true alt=4Evens /> </p>
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurcanNT)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4Evens)](https://git.io/streak-stats)
 
 
 <!--
-**nurcanNT/nurcanNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**4Evens/4Evens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
