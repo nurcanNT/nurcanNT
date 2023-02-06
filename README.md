@@ -17,30 +17,25 @@
 </p>
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-323330?style=flat&logo=react&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 
 
 ## About me
 Welcome to my GitHub page ... <br>
-I met Java with software. I continue with SQL, Python, HTML, CSS and Javascript.
-I learned Python for 3 months with the Women in Tech Academy and attended many different trainings. I create every line of code with enthusiasm and enthusiasm. I am very happy to have discovered my interest in software.
-An awareness made me say no to many things. 
-My choice is software...
-
+I'm working on JavaScript and React technologies.
+I am currently producing content on my <a href= "https://medium.com/@nrcntpkra">medium</a> account related to software. 
 
 ## Things I am passionate about
 
-- 📙 I am currently producing content on my <a href= "https://medium.com/@nrcntpkra">medium</a> account related to software. 
 - 💗 I love my mistakes...
 - 🍰 By the way, I do not want to go without saying that I am a cheesecake master 🥰
 - 🌵 I like cactus. I am the older sister of my cacti...
