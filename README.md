@@ -31,14 +31,14 @@
 
 ## About me
 Welcome to my GitHub page ... <br>
-I'm working on JavaScript and React technologies.
-I am currently producing content on my <a href= "https://medium.com/@nrcntpkra">medium</a> account related to software. 
+I'm working on JavaScript and React technologies. <br>
+I produce content about the technologies I use on  <a href= "https://medium.com/@nrcntpkra">Medium</a>
 
 ## Things I am passionate about
 
 - 💗 I love my mistakes...
 - 🍰 By the way, I do not want to go without saying that I am a cheesecake master 🥰
-- 🌵 I like cactus. I am the older sister of my cacti...
+- 🌵 I like cacti. I am the mother of my cacti...
 
 
 ## A coffee >>> :coffee:
